@@ -19,7 +19,7 @@ available_regions:
     - us-west-1
     - us-east-2
     - us-east-1
-image: 'https://assets.artifakt.io/lamp.png'
+image: https://assets.artifakt.io/artifacts/lamp.png
 category: cms
 main_language: php
 licence:
@@ -32,7 +32,7 @@ tags:
     - demo
     - cms
 infrastructure:
-    diagram: 'https://assets.artifakt.io/artifact-demo-app-aws.png'
+    diagram: https://assets.artifakt.io/artifacts/artifact-demo-app-aws.png
     build_time: 50
     cost_estimation:
         monthly_price: 18.3
